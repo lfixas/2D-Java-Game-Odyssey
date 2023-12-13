@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/EpitechMscProPromo2026/T-JAV-501-STG_7/blob/main/assets/ui/main/title.png" alt="Odyssey" width="auto" height="auto"/></h1>
+<h1 align="center"><img src="https://github.com/lfixas/2D-Java-Game-Odyssey/blob/main/assets/ui/main/title.png" alt="Odyssey" width="auto" height="auto"/></h1>
 
 Welcome to Odyssey, an exciting space exploration game built with [`libGDX`](https://libgdx.com) and powered by **Gradle**. In this Java-based game, players embark on a thrilling journey through the vastness of space, piloting their own ship, exploring planets, collecting resources, and uncovering mysterious artifacts in dungeons.
 
@@ -6,19 +6,19 @@ Welcome to Odyssey, an exciting space exploration game built with [`libGDX`](htt
 
 - **Space Exploration:** Traverse a vast and open space filled with unique planets, each offering different challenges and opportunities for exploration.
 
-  <div align="center"><img src="https://github.com/EpitechMscProPromo2026/T-JAV-501-STG_7/blob/main/github/assets/travel_animation.gif" alt="Travel Map" width="auto" height="288"/></div>
+  <div align="center"><img src="https://github.com/lfixas/2D-Java-Game-Odyssey/blob/main/github/assets/travel_animation.gif" alt="Travel Map" width="auto" height="288"/></div>
 
 - **Ship Upgrades:** Collect resources to enhance and upgrade your spaceship. Improve its capabilities to reach new planets and overcome obstacles.
 
-  <div align="center"><img src="https://github.com/EpitechMscProPromo2026/T-JAV-501-STG_7/blob/main/github/assets/ressources.png" alt="Ressources" width="auto" height="216"/> <img src="https://github.com/EpitechMscProPromo2026/T-JAV-501-STG_7/blob/main/github/assets/upgrade.png" alt="Upgrade" width="auto" height="216"/></div>
+  <div align="center"><img src="https://github.com/lfixas/2D-Java-Game-Odyssey/blob/main/github/assets/ressources.png" alt="Ressources" width="auto" height="216"/> <img src="https://github.com/lfixas/2D-Java-Game-Odyssey/blob/main/github/assets/upgrade.png" alt="Upgrade" width="auto" height="216"/></div>
 
 - **Dungeon Delving:** Discover hidden dungeons on planets[^1], where valuable artifacts await. Solve puzzles and face challenges to claim these coveted treasures.
 
-  <div align="center"><img src="https://github.com/EpitechMscProPromo2026/T-JAV-501-STG_7/blob/main/github/assets/cave.png" alt="Cave Planet" width="auto" height="216"/> <img src="https://github.com/EpitechMscProPromo2026/T-JAV-501-STG_7/blob/main/github/assets/cave_in.png" alt="Cave In" width="auto" height="216"/></div>
+  <div align="center"><img src="https://github.com/lfixas/2D-Java-Game-Odyssey/blob/main/github/assets/cave.png" alt="Cave Planet" width="auto" height="216"/> <img src="https://github.com/lfixas/2D-Java-Game-Odyssey/blob/main/github/assets/cave_in.png" alt="Cave In" width="auto" height="216"/></div>
 
 - **Round-Based Fighting System:** A dynamic round-based fighting system to enhance the excitement when facing enemy threats on planets. Engage in strategic battles as you encounter hostile entities during your exploration.
 
-  <div align="center"><img src="https://github.com/EpitechMscProPromo2026/T-JAV-501-STG_7/blob/main/github/assets/fight_animation.gif" alt="Fight" width="auto" height="216"/></div>
+  <div align="center"><img src="https://github.com/lfixas/2D-Java-Game-Odyssey/blob/main/github/assets/fight_animation.gif" alt="Fight" width="auto" height="216"/></div>
 
 - **Artifact Collection:** The ultimate goal is to collect all the artifacts scattered across the universe. Will you be able to uncover every secret hidden in the depths of space?
 
@@ -36,7 +36,7 @@ This semi-procedural approach ensures a balance between handcrafted design and u
 
 Feel free to explore the depths of these semi-procedurally generated caves and uncover the hidden artifacts within!
 
-<div align="center"><img src="https://github.com/EpitechMscProPromo2026/T-JAV-501-STG_7/blob/main/github/assets/cave_generation_animation.gif" alt="Cave Generation" width="auto" height="288"/></div>
+<div align="center"><img src="https://github.com/lfixas/2D-Java-Game-Odyssey/blob/main/github/assets/cave_generation_animation.gif" alt="Cave Generation" width="auto" height="288"/></div>
 
 > In the above image, you can see the semi-procedurally generated caves evolving through the Cellular Automaton algorithm.
 
